@@ -1,0 +1,5 @@
+Laptop,1,5000
+Supercar,2,1000000
+Bycle,2,1000
+Keyboard,2,1000
+Mouse,2,1000

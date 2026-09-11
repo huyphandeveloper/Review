@@ -1,0 +1,5 @@
+Laptop,2,1000
+Phone,5,10000
+Computer,3,80000
+Car,1,10000
+Home,1,100000
